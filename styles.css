@@ -74,7 +74,7 @@ h1 {
 }
 
 .bg-imgs-top {
-    background-image: url('/images/bg_splash.png');
+    background-image: url('images/bg_splash.png');
     transform: translate(-25%, -60%);
     /* z-index: 9999; */
     flex-grow: 1;
@@ -87,7 +87,7 @@ h1 {
 }
 
 .bg-imgs-btm {
-    background-image: url('/images/bg_left.png');
+    background-image: url('images/bg_left.png');
     transform: translate(100%, -145%);
     width: 1000px;
     height: 1000px;
